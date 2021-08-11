@@ -2,6 +2,8 @@
 
 Plain component based on TailwindCSS and Vue.js.
 
+[Live Demo here](https://tailwindcss-admin-template.vercel.app/#/admin)
+
 ## Screenshots
 
 <img src="./screenshots/1-min.png" height="400px">
