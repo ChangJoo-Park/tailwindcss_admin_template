@@ -1,0 +1,26 @@
+{
+  "name": "admin_template",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@j-t-mcc/vue3-chartjs": "^1.1.4",
+    "chart.js": "^3.5.0",
+    "dayjs": "^1.10.6",
+    "faker": "^5.5.3",
+    "vue": "^3.2.1",
+    "vue-chartjs": "^3.5.1",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.4.0",
+    "@vue/compiler-sfc": "^3.2.1",
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7",
+    "vite": "^2.4.4"
+  }
+}
